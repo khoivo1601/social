@@ -91,6 +91,7 @@ Contributors
 - `Trobz <https://trobz.com>`__:
 
   - Dzung Tran <dungtd@trobz.com>
+  - Khoi Vo <khoivha@trobz.com>
 
 Other credits
 -------------

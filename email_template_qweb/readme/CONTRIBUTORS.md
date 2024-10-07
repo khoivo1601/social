@@ -16,3 +16,4 @@
 
 - [Trobz](https://trobz.com):  
   - Dzung Tran \<<dungtd@trobz.com>\>
+  - Khoi Vo \<<khoivha@trobz.com>\>
