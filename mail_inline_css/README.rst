@@ -73,6 +73,7 @@ Contributors
 - `Trobz <https://trobz.com>`__:
 
      - Son Ho <sonhd@trobz.com>
+     - Khoi Vo <khoivha@trobz.com>
 
 Other credits
 -------------
